@@ -1,6 +1,7 @@
+package DSOOPS_Wk10_S4_L38;
 import java.util.Scanner;
 
-public class Elseif {
+public class ElseIf {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -44,6 +45,7 @@ public class Elseif {
             default:
                 System.out.println("Invalid operation");
         }
+        sc.close();
 
     }
 }

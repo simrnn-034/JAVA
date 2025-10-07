@@ -14,6 +14,7 @@ public class Ques01{
         System.out.println("the mul is:"+mul);
     
 
-
+ input.close();
     }
+   
 }

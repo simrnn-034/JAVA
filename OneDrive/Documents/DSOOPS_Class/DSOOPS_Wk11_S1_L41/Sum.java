@@ -13,6 +13,6 @@ public class Sum{
             sum+=arr[i];
         }
         System.out.print(sum);
-
+input.close();
     }
 }

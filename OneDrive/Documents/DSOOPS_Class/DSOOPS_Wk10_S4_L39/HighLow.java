@@ -1,3 +1,4 @@
+
 public class HighLow{
     public static void main(String[] args){
        int n=10;
@@ -9,7 +10,7 @@ public class HighLow{
                 System.out.println(i+" :Low");
             }
             else if(i>5){
-                System.out.println(i+" :High")
+                System.out.println(i+" :High");
             }
             
             i++;

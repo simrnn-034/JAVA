@@ -27,7 +27,9 @@
         System.out.println("Your Grade: " + grade);
 
         System.out.println("Total Marks: " + total);
+        sc.close();
     }}
+
  
 
     

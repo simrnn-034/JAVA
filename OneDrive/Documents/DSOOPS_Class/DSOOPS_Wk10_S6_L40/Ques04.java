@@ -24,5 +24,6 @@ public class Ques04 {
             }
             System.out.println();
         }
+        sc.close();
     }
 }
